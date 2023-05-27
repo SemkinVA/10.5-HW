@@ -71,11 +71,6 @@ Weighted Round Robin - это round robin, но с дополнительной 
 
 ![5-1](https://github.com/SemkinVA/10.5-HW/blob/main/5-1.png)
 
-Конфигурация Nod1
-```
-pid file = /var/run/rsyncd.pid
-
-```
 
 ***
 
